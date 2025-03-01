@@ -21,6 +21,7 @@ return new class extends Migration
             $table->text('keterangan')->nullable();
             $table->timestamps();
 
+            
             // Foreign key
             $table->foreign('karyawan_id')->references('id')->on('karyawans')->onDelete('cascade');
         });

@@ -23,6 +23,7 @@ return new class extends Migration
             $table->timestamps(); // created_at dan updated_at
         
             // Tambahkan foreign key constraint
+            
             $table->foreign('karyawan_id')->references('id')->on('karyawans')->onDelete('cascade');
         });
     }
