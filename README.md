@@ -67,6 +67,7 @@ login dengan role admin
   email : admin@example.com
   password : admin123
 ```
+untuk login di role menu karyawan ,harap mengisikan data karyawan terlebih dahulu di menu manajemen karyawan , gunakan email dan password yang sama dengan yang di isikan.
 
 
 
