@@ -70,11 +70,25 @@ login dengan role admin
 untuk login di role menu karyawan ,harap mengisikan data karyawan terlebih dahulu di menu manajemen karyawan , gunakan email dan password yang sama dengan yang di isikan.
 
 
-
+## Tampilan Menu
+1. Login Page
+   ![Image](https://github.com/user-attachments/assets/f3f8412c-ef00-4ef7-bd15-bbea2a7ccb43)
+2. Dashboard Admin
+   ![Image](https://github.com/user-attachments/assets/7dca9ae6-a176-4ba5-8389-e3bd896a9a54)
+3. Manajemen Karyawan
+   ![Image](https://github.com/user-attachments/assets/1b4001ac-5e07-4d6f-98ec-6fd925abab23)
+4. Manajemen Lembur
+   ![Image](https://github.com/user-attachments/assets/baef16fe-7617-4031-9182-f87b5e1597bc)
+5. Rekapan Laporan
+    ![Image](https://github.com/user-attachments/assets/b28feb39-c546-47a0-9db5-b5c624930a4c)
+6. Karyawan Dashboard (Role Karyawan)
+    ![Image](https://github.com/user-attachments/assets/5163dfcb-f5d6-4e5c-9682-ba6cc74b8007)
+7. Ajukan Lembur (Role Karyawan)
+    ![Image](https://github.com/user-attachments/assets/a40fc1ae-d62e-4cff-9945-d3906695e97f)
 ## Tech Stack
 
 **Fullstack:** Laravel, Php, Mysql, Javascript
-
+**Kit Laravel:** Breeze
 **Library:** DomPDF
 
 
